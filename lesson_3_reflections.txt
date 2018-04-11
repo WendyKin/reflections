@@ -4,9 +4,9 @@ local?
     when I want to edit my repository at other place, or need to collaborate with others.
 
 Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+automatically stay up-to-date with your remote repository?为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
 
-    Fill in your answer here
+    Because there could be conflicts in the two repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
